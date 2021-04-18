@@ -11,8 +11,8 @@ GET, POST, PUT and DELETE were tested in Insommia Core.
 
 ## DEMO
 
-![](insomina.gif)
+![](Assets\insomnia.gif)
 
-![](node-server.js.gif)
+![](Assets\node-server.js.gif)
 
-![](npm-run-seeds.gif)
+![](Assets\npm-run-seeds.gif)
